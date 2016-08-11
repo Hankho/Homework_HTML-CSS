@@ -1,0 +1,144 @@
+img {
+	display:block;
+}
+
+
+.container{
+	background:lightblue;
+	/*width:1180px;*/
+	margin:0 auto;
+	
+}
+
+#logo{
+	float:left;	
+}
+#nav {
+	float:right;
+
+}
+.clearfix {
+	clear:both;
+}
+
+		
+.sentence{
+	color:white;
+	float:left;
+	font-size:20px;
+	
+}
+
+#nav ul{
+	/*list-style-type:none;*/
+
+}
+#nav li{
+    float:left;
+    margin:20px;
+}
+
+#nav a{
+	padding: 0 5px;
+	color:black;
+	text-decoration: none;
+	text-transform: uppercase;
+
+
+}
+
+.banner {
+	
+	background:white;
+}
+
+.our h2{
+  	text-align: center;
+  	margin:0;
+  	margin-top: 100px;
+  	text-transform: uppercase;
+  	
+		
+}
+.see h4{
+	text-align: center;
+	margin:0;
+	text-transform: capitalize;
+
+}
+.filter ul{
+	    margin-top: 60px;
+
+}
+
+.filter li{
+	float:left;
+	margin:0;
+}
+.filter a{
+	padding: 0 20px;
+	margin:0;
+	color:black;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+
+
+.clearfix {
+	clear:both;
+}
+
+
+.pictures a{
+	float:left;
+
+
+}
+.clearfix {
+	clear:both;
+}
+
+.load h4{
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 80px;
+
+
+}
+
+#footer {
+	background:orange;
+}
+
+#footer h2{
+	margin:0;
+	text-align: center;
+	font-size: 30px;
+}
+
+
+
+.nav2 li {
+   float:left;
+   margin-top:10px;
+
+}
+
+.nav2 a {
+	padding: 0 5px;
+	text-decoration: none;
+	color:black;
+
+}
+
+.clearfix {
+	clear:both;
+}
+
+#author h4{
+	text-align: center;
+
+}
+
+
